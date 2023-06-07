@@ -1,4 +1,4 @@
-# 💫 About Me:.
+# 💫 About Me:
 As a final-year student pursuing a B.Tech in Computer Science and Engineering with a core focus on C++ and web development, I am fueled by a deep passion for learning and exploring the latest technological advancements. 
 
 
