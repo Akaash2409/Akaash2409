@@ -59,8 +59,8 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal1patidar&color=blueviolet&style=">
+  <img src="https://komarev.com/ghpvc/?username=Akaash2409&color=blueviolet&style=">
 
 
-<img src="https://img.shields.io/github/followers/vishal1patidar.svg?style=social&label=Follow"></p>
+<img src="https://img.shields.io/github/followers/Akaash2409.svg?style=social&label=Follow"></p>
 </div>	  
